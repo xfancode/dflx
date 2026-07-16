@@ -52,8 +52,8 @@
 
 ## Ссылки
 
-- **Сайт**: [xfancode.github.io/dflx](https://xfancode.github.io/dflx)
-- **Репозиторий**: [github.com/xfancode/dflx](https://github.com/xfancode/dflx)
+- **Сайт**: [Deflex Studio](https://tri.su/dflx)
+- **Репозиторий**: [GitHub](https://github.com/xfancode/dflx)
 
 ---
 
