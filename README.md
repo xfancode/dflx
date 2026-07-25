@@ -2,6 +2,10 @@
 
 **Deflex Studio** — это лёгкая, мощная и портативная среда разработки, которая работает прямо в браузере.
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub release](https://img.shields.io/badge/version-4.1-purple)]()
+[![Made by xFaN](https://img.shields.io/badge/Made%20by-xFaN-blueviolet)](https://github.com/xfancode)
+[![GitHub stars](https://img.shields.io/github/stars/xfancode/dflx)](https://github.com/xfancode/dflx/stargazers)
 ---
 
 ## Возможности
