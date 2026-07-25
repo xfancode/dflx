@@ -17,7 +17,7 @@
 
 ## Как использовать
 
-1. Открой [Deflex Studio](https://xfancode.github.io/dflx)
+1. Открой [Deflex Studio](https://tri.su/dflx)
 2. Выбери платформу (C#, Python, WinForms и т.д.)
 3. Напиши код или нарисуй интерфейс
 4. Нажми **"Компилировать"** или **"Скачать"**
