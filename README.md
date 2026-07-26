@@ -21,11 +21,11 @@
 
 ## Как использовать
 
-1. Открой [Deflex Studio](https://tri.su/dflx)
-2. Выбери платформу (C#, Python, WinForms и т.д.)
-3. Напиши код или нарисуй интерфейс
-4. Нажми **"Компилировать"** или **"Скачать"**
-5. Готово! Исполняемый файл у тебя на рабочем столе
+1. Откройте [Deflex Studio](https://tri.su/dflx)
+2. Выберите платформу (C#, Python, WinForms и т.д.)
+3. Напишите код или нарисуй интерфейс
+4. Нажмите **"Компилировать"** или **"Скачать"**
+5. Готово! Исполняемый файл у вас на рабочем столе
 
 ---
 
@@ -58,6 +58,7 @@
 
 - **Сайт**: [Deflex Studio](https://tri.su/dflx)
 - **Репозиторий**: [GitHub](https://github.com/xfancode/dflx)
+- **Иконка Deflex Studio**: [Deflex Studio Icon](data:image/svg+xml,<svg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'><rect width='512' height='512' rx='100' fill='%230f0c1f'/><rect x='80' y='60' width='352' height='392' rx='20' fill='none' stroke='%238b5cf6' stroke-width='6'/><text x='120' y='280' fill='%23c4b5fd' font-family='monospace' font-size='72' font-weight='bold'>>_</text></svg>)
 
 ---
 
