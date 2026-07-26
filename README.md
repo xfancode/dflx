@@ -58,7 +58,7 @@
 
 - **Сайт**: [Deflex Studio](https://tri.su/dflx)
 - **Репозиторий**: [GitHub](https://github.com/xfancode/dflx)
-- **Иконка Deflex Studio**: ![Deflex Icon](icon.svg)
+- **Иконка Deflex Studio**: [Deflex Studio Icon](https://raw.githubusercontent.com/xfancode/dflx/main/icon.svg)
 ---
 
 ✉️ sz.2506.mail@gmail.com - для идей, предложений
