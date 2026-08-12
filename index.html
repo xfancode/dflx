@@ -1013,6 +1013,14 @@ if (bgSvg) {
     if (layer) layer.innerHTML = bgSvg;
 }
 
+    window.onload = function() {
+        if (typeof dox !== 'undefined') {
+            dox.get();
+        } else {
+            console.error('dox.js не загружена.');
+        }
+    };
+    
 if (checkPasswordOnStart()) render();
 </script>
 </body>
